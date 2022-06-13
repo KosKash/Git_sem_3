@@ -52,6 +52,9 @@
 >git log --graph
 
 **Создание ветки**
+Для того чтобы создать новую ветку нужно использовать команду:
+>git branch branch_name
+>git checkout -b branch_name
 
 Для того чтобы создать новую ветку в Git
 >git branch branch_name
